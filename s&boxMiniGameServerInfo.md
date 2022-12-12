@@ -92,3 +92,9 @@ The server will be inspired by Mario Party, Pummel Party, Fall Guys, and most im
 
 1. XP booster for player level
 2. Point booster for free points to buy consumables, player models, etc.
+
+
+### Point Shop
+
+- The Point Shop will be organized into multiple section for better use for the user on specifications of each item.
+    - The sections so far will be: Customization, Consumable, Premium
