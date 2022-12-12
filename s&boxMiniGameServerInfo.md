@@ -13,6 +13,11 @@ The server will be inspired by Mario Party, Pummel Party, Fall Guys, and most im
 
 ### User Capabilities
 - The user will have the standard movements brought by sandbox with simple jumping and sliding. The user will also be able to punch other people pushing them backward. There will be pickup-able items on the ground the user can use to their benefit or detriment as well as consumables bought in the shop to take into the next minigame with them.
+- The user will be able to trade items with other people and also be able to earn points through playing the game and premium points through winning the minigames. MIGHT set up an auction style of trading where VIPs/Premium members can auction off their items for others to bid on. 
+    - Focus primarily on customization for the user with points, more on the **PointShop** section
+- Depending on the minigame and modifier there may be more controls for the player to use during that time
+- There is also a GUI Menu User's can access for other controls and information listed in the [Basics](SBOX-DOCUMENTATION/s&boxBasics.md) document.
+
 
 ### Features
 
@@ -20,7 +25,7 @@ The server will be inspired by Mario Party, Pummel Party, Fall Guys, and most im
 2. Modifiers
 3. Consumables
 4. Boosters
-
+5. Point Shop
 
 ### Minigames List
 
@@ -72,6 +77,8 @@ The server will be inspired by Mario Party, Pummel Party, Fall Guys, and most im
 3. Psychadelic Mode (Everythings rainbow)
 4. Speed Mode (Everything has faster speed: Player, Props, NPCs)
 5. Bomb Mode (Spawn bombs around the map that do no damage but push players from explosion)
+6. Low Gravity Mode (Higher Jumps and slower fall speed)
+7. Floor is Ice Mode (Users and Props slip on everything)
 
 
 ### Consumables 
