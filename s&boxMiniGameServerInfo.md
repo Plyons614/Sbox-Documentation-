@@ -11,6 +11,9 @@ The server will be inspired by Mario Party, Pummel Party, Fall Guys, and most im
     - Special minigames at the end of each rotation for special prizes
 
 
+### User Capabilities
+- The user will have the standard movements brought by sandbox with simple jumping and sliding. The user will also be able to punch other people pushing them backward. There will be pickup-able items on the ground the user can use to their benefit or detriment as well as consumables bought in the shop to take into the next minigame with them.
+
 ### Features
 
 1. Minigame Listings

@@ -87,6 +87,11 @@ At top of each page run a line of tabs for all other pages (F2, F3, ..., F9)
     - PBan 
         - Permanently ban user specified with message following up behind it
     - Warn 
-        
+        - Send private message to user that is warned for one of the listed reasons offered to the staff member
+
+4. Chat commands for Admin
+    - Reset
+        - Reset the server if it gets stuck or group of troublemakers come in
+    
     
     
