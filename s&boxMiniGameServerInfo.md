@@ -16,7 +16,7 @@ The server will be inspired by Mario Party, Pummel Party, Fall Guys, and most im
 - The user will be able to trade items with other people and also be able to earn points through playing the game and premium points through winning the minigames. MIGHT set up an auction style of trading where VIPs/Premium members can auction off their items for others to bid on. 
     - Focus primarily on customization for the user with points, more on the **PointShop** section
 - Depending on the minigame and modifier there may be more controls for the player to use during that time
-- There is also a GUI Menu User's can access for other controls and information listed in the [Basics](Sbox-Documentation-/s&boxBasics.md) document.
+- There is also a GUI Menu User's can access for other controls and information listed in the [Basics](https://github.com/Plyons614/Sbox-Documentation-/blob/main/s%26boxBasics.md) document.
 
 
 ### Features
