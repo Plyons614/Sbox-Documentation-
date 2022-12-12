@@ -1,6 +1,11 @@
 # S&box MiniGame Server Specifications
 
+##### S&box Game Links
 > [Documentation Link](https://wiki.facepunch.com/sbox/)
+
+##### Personal S&box File Links
+> [Basics](https://github.com/Plyons614/Sbox-Documentation-/blob/main/s%26boxBasics.md)
+> [Minigame General](https://github.com/Plyons614/Sbox-Documentation-/blob/main/s%26boxMiniGameServerInfo.md)
 
 ### Introduction
 
@@ -98,3 +103,16 @@ The server will be inspired by Mario Party, Pummel Party, Fall Guys, and most im
 
 - The Point Shop will be organized into multiple section for better use for the user on specifications of each item.
     - The sections so far will be: Customization, Consumable, Premium
+    - There may be more organization in the future and may limit slots (purchasable?)
+    1. Customization Section:
+        - This will be by far the largest section. The user will be able to get a few different types of items that they can use for customization to stand out from the normal crowd. 
+        - Primarily there will be normal player models that they get with the normal points in the section and will be the biggest difference in telling each other apart
+        - Along with that, hats will be another big customization item that users can equip. It is important to note that hats and models will **not affect** hit boxes whatsoever.
+        - Finally, there will be a way to implement skins for consumable items such as different skins for the bomb like it being a party popper shooting out confetti or the bat turned into a candy cane earned from the Christmas event.
+    2. Consumable Section:
+        - A smaller section compared to the first but will contain a method to "equip" the consumable and only one consumable per minigame
+        - Overall there will be different types of consumables: Ones they use inside the minigame and ones they use in the menu
+            - An example of ones to be used in the menu will be a point consumable such as "use to get 1000 points" which can be given through a daily reward or another method
+            - An example of one that can be used in the minigame would be a bomb mentioned above that can be dropped/thrown by the user
+        - This will probably be the section with the most items and copies of those same items so it might be wise to setup an image of the item in the menu with a number at the corner showing how many of that consumable the user has.
+        - There may or may not be premium consumables in the future but for now it will stick to non-altering items for the game
