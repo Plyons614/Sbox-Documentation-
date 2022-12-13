@@ -14,6 +14,7 @@ The server will be inspired by Mario Party, Pummel Party, Fall Guys, and most im
     - Might do normal generalized minigames or survival based minigames (avoid getting sucked up by a ufo, survive a tornado, etc.)
     - One big payout of premium currency is currently planned where normal gametime and winning smaller mini-games get users the free currency
     - Special minigames at the end of each rotation for special prizes
+    - Uses a mix of maps, minigames, and modifiers to give more replayability                                       
 
 
 ### User Capabilities
