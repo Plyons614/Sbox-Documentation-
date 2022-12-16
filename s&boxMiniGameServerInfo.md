@@ -33,6 +33,7 @@ The server will be inspired by Mario Party, Pummel Party, Fall Guys, and most im
 4. Boosters
 5. Point Shop
 6. Tab Menu
+7. Maps
 
 ### Minigames List
 
@@ -40,7 +41,7 @@ The server will be inspired by Mario Party, Pummel Party, Fall Guys, and most im
 
 1. [Stepping Stones](https://github.com/Plyons614/Sbox-Documentation-/blob/main/SteppingStones.md)
     - Squid Game glass bridge
-2. UFO/Alien Survival
+2. UFO Survival
     - Players spawn around map with a couple ufo's above tracking them and sucking them up with their beams
 3. Pool Table 
     - Player is a pool ball and has to dodge other pool balls flung around the table 
@@ -85,6 +86,8 @@ The server will be inspired by Mario Party, Pummel Party, Fall Guys, and most im
     - AI dodgeballs that bounce off the walls and players have to dodge (slowly speeds up over time or spawn more balls over time)
 22. NextBot Invasion 
     - Survive the nextbots
+23. Black Hole
+    - Spawn a black hole in a quarter of the map that gets bigger sucking people and props in
 
 ### Modifiers
 
@@ -116,7 +119,7 @@ The server will be inspired by Mario Party, Pummel Party, Fall Guys, and most im
 4. Russian Roulette (Gun that goes to your head and has 1 bullet in a 6 round chamber)
 5. Air Horn (Ear rape)
 6. Vape Pen (Smokescreen, can be colored)
-
+7. Bass Cannon (What Mocho never implemented)
 
 ### Boosters
 
@@ -157,3 +160,5 @@ The server will be inspired by Mario Party, Pummel Party, Fall Guys, and most im
         - Winstreak
         - Player Model
         - Player Status
+
+### Maps
