@@ -81,6 +81,10 @@ The server will be inspired by Mario Party, Pummel Party, Fall Guys, and most im
     - Players have to reach stable high ground for the water rising
 20. Blood for the Blood God
     - Players kill each other and have to toss bodies into an altar. The one who has most bodies entered wins
+21. Dodgeball
+    - AI dodgeballs that bounce off the walls and players have to dodge (slowly speeds up over time or spawn more balls over time)
+22. NextBot Invasion 
+    - Survive the nextbots
 
 ### Modifiers
 
@@ -141,4 +145,15 @@ The server will be inspired by Mario Party, Pummel Party, Fall Guys, and most im
 
 ### Tab Menu
 
-- 
+- Scoreboard shown with multiple features for the player
+    - Show win streak next to player's name and their account level
+    - Show Vip/Premium/Staff status
+    - Show dead vs. alive players
+    - Show ping to server
+    - Show server IP
+    - Show some of Player's personal data
+        - Number of points
+        - Number of wins
+        - Winstreak
+        - Player Model
+        - Player Status
