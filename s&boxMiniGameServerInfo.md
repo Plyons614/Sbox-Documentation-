@@ -38,7 +38,7 @@ The server will be inspired by Mario Party, Pummel Party, Fall Guys, and most im
 
 #### PRIORITY LIST
 
-1. [Stepping Stones / Glass Bridge]((https://github.com/Plyons614/Sbox-Documentation-/blob/main/SteppingStones.md))
+1. [Stepping Stones](https://github.com/Plyons614/Sbox-Documentation-/blob/main/SteppingStones.md)
     - Squid Game glass bridge
 2. UFO/Alien Survival
     - Players spawn around map with a couple ufo's above tracking them and sucking them up with their beams
