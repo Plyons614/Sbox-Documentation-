@@ -1,4 +1,4 @@
-# S&box MiniGame Server Specifications
+# S&box Stepping Stones Minigame
 
 ##### S&box Game Links
 > [Documentation Link](https://wiki.facepunch.com/sbox/)
