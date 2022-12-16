@@ -3,7 +3,7 @@
 ##### S&box Game Links
 > [Documentation Link](https://wiki.facepunch.com/sbox/)
 
-##### Personal S&box File Links
+##### Personal Main S&box File Links
 > [Basics](https://github.com/Plyons614/Sbox-Documentation-/blob/main/s%26boxBasics.md)
 > [Minigame General](https://github.com/Plyons614/Sbox-Documentation-/blob/main/s%26boxMiniGameServerInfo.md)
 

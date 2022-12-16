@@ -3,7 +3,7 @@
 ##### S&box Game Links
 > [Documentation Link](https://wiki.facepunch.com/sbox/)
 
-##### Personal S&box File Links
+##### Personal Main S&box File Links
 > [Basics](https://github.com/Plyons614/Sbox-Documentation-/blob/main/s%26boxBasics.md)
 > [Minigame General](https://github.com/Plyons614/Sbox-Documentation-/blob/main/s%26boxMiniGameServerInfo.md)
 
@@ -37,7 +37,7 @@ The server will be inspired by Mario Party, Pummel Party, Fall Guys, and most im
 
 #### PRIORITY LIST
 
-1. Stepping Stones / Glass Bridge
+1. [Stepping Stones / Glass Bridge]((https://github.com/Plyons614/Sbox-Documentation-/blob/main/SteppingStones.md))
     - Squid Game glass bridge
 2. UFO/Alien Survival
     - Players spawn around map with a couple ufo's above tracking them and sucking them up with their beams
