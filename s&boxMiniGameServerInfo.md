@@ -70,8 +70,8 @@ The server will be inspired by Mario Party, Pummel Party, Fall Guys, and most im
     - Spawn a bunch of zombie npcs to chase players around until all die except one
 15. Infection
     - One infected player infects others until 1 survivor left
-16. Hunted
-    - Hunted gamemode from gmod (1 invisible man with a lot of health and a knife vs. everyone else with normal health and pistols)
+16. Hidden
+    - Hidden gamemode from gmod (1 invisible man with a lot of health and a knife vs. everyone else with normal health and pistols)
 
 
 ### Modifiers

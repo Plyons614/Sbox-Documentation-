@@ -93,6 +93,14 @@ At top of each page run a line of tabs for all other pages (F2, F3, ..., F9)
         - Permanently ban user specified with message following up behind it
     - Warn 
         - Send private message to user that is warned for one of the listed reasons offered to the staff member
+    - Mute
+        - Mute the voice chat of a user
+    - Gag
+        - Mute the text chat of a user
+    - Gimp
+        - Whenever the user types it turns what they say into premade text 
+    - Ip Ban
+        - Ban the user's IP address, so if they can't keep coming back with alt accounts
 
 4. Chat commands for Admin
     - Reset
