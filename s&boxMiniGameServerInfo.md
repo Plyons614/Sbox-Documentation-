@@ -32,6 +32,7 @@ The server will be inspired by Mario Party, Pummel Party, Fall Guys, and most im
 3. Consumables
 4. Boosters
 5. Point Shop
+6. Tab Menu
 
 ### Minigames List
 
@@ -72,7 +73,14 @@ The server will be inspired by Mario Party, Pummel Party, Fall Guys, and most im
     - One infected player infects others until 1 survivor left
 16. Hidden
     - Hidden gamemode from gmod (1 invisible man with a lot of health and a knife vs. everyone else with normal health and pistols)
-
+17. Hot Potato
+    - Player gets a bomb and has to pass it on before it explodes
+18. Toilet Trouble 
+    - Players inside a toilet bowl and gotta dodge shit
+19. Flood 
+    - Players have to reach stable high ground for the water rising
+20. Blood for the Blood God
+    - Players kill each other and have to toss bodies into an altar. The one who has most bodies entered wins
 
 ### Modifiers
 
@@ -85,6 +93,15 @@ The server will be inspired by Mario Party, Pummel Party, Fall Guys, and most im
 5. Bomb Mode (Spawn bombs around the map that do no damage but push players from explosion)
 6. Low Gravity Mode (Higher Jumps and slower fall speed)
 7. Floor is Ice Mode (Users and Props slip on everything)
+8. Gas Circle (Encloses from outside the map towards the center)
+9. Noir Vision (Grayscale colors)
+
+#### NON-PRIORITY LIST
+
+10. Reversed Controls (wasd, mouse)
+11. Flipped Vision (upside-down)
+12. Walking Bomb (2 players touch, they knock each other back)
+13. Lucky Blocks (Buffs and Debuffs)
 
 
 ### Consumables 
@@ -92,6 +109,9 @@ The server will be inspired by Mario Party, Pummel Party, Fall Guys, and most im
 1. Bombs (Dropped by player and explodes after a few seconds pushing players away from center)
 2. Bat (Stronger version of the punch any person can do but has limited use: multiple hits or disappears after current game round?)
 3. Jump Potion (Increases jump height by 1.1x making the player be able to jump higher than most people and over smaller obstacles)
+4. Russian Roulette (Gun that goes to your head and has 1 bullet in a 6 round chamber)
+5. Air Horn (Ear rape)
+6. Vape Pen (Smokescreen, can be colored)
 
 
 ### Boosters
@@ -117,3 +137,8 @@ The server will be inspired by Mario Party, Pummel Party, Fall Guys, and most im
             - An example of one that can be used in the minigame would be a bomb mentioned above that can be dropped/thrown by the user
         - This will probably be the section with the most items and copies of those same items so it might be wise to setup an image of the item in the menu with a number at the corner showing how many of that consumable the user has.
         - There may or may not be premium consumables in the future but for now it will stick to non-altering items for the game
+
+
+### Tab Menu
+
+- 
