@@ -44,7 +44,7 @@ The server will be inspired by Mario Party, Pummel Party, Fall Guys, and most im
 2. UFO Survival
     - Players spawn around map with a couple ufo's above tracking them and sucking them up with their beams
 3. Pool Table 
-    - Player is a pool ball and has to dodge other pool balls flung around the table 
+    - Player is on a pool table and has to dodge other pool balls flung around the table 
 4. Sky fall
     - Player dodges falling props that spawn in the sky and insta-kill
 5. Spinning bar Survival
