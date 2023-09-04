@@ -45,7 +45,7 @@ The server will be inspired by Mario Party, Pummel Party, Fall Guys, and most im
     - Players spawn around map with a couple ufo's above tracking them and sucking them up with their beams
 3. Pool Table 
     - Player is on a pool table and has to dodge other pool balls flung around the table 
-4. Sky fall
+4. [Sky fall](https://github.com/Plyons614/Sbox-Documentation-/blob/main/SkyFall.md)
     - Player dodges falling props that spawn in the sky and insta-kill
 5. Spinning bar Survival
     - Player on platform with a bar that rotates in a circle and knocks people off
