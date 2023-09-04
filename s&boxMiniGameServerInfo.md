@@ -41,13 +41,13 @@ The server will be inspired by Mario Party, Pummel Party, Fall Guys, and most im
 
 1. [Stepping Stones](https://github.com/Plyons614/Sbox-Documentation-/blob/main/SteppingStones.md)
     - Squid Game glass bridge
-2. UFO Survival
+2. [UFO Survival](https://github.com/Plyons614/Sbox-Documentation-/blob/main/ufoSurvival.md)
     - Players spawn around map with a couple ufo's above tracking them and sucking them up with their beams
-3. Pool Table 
+3. [Pool Table](https://github.com/Plyons614/Sbox-Documentation-/blob/main/PoolTable.md) 
     - Player is on a pool table and has to dodge other pool balls flung around the table 
 4. [Sky fall](https://github.com/Plyons614/Sbox-Documentation-/blob/main/SkyFall.md)
     - Player dodges falling props that spawn in the sky and insta-kill
-5. Spinning bar Survival
+5. [Spinning bar Survival](https://github.com/Plyons614/Sbox-Documentation-/blob/main/SpinningBarSurvival.md)
     - Player on platform with a bar that rotates in a circle and knocks people off
 6. Red Light Green Light
     - Players race to other side of the map or an item on the map without getting caught moving red mode
