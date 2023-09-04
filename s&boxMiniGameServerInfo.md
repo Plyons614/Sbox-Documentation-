@@ -49,7 +49,7 @@ The server will be inspired by Mario Party, Pummel Party, Fall Guys, and most im
     - Player dodges falling props that spawn in the sky and insta-kill
 5. [Spinning bar Survival](https://github.com/Plyons614/Sbox-Documentation-/blob/main/SpinningBarSurvival.md)
     - Player on platform with a bar that rotates in a circle and knocks people off
-6. Red Light Green Light
+6. [Red Light Green Light](https://github.com/Plyons614/Sbox-Documentation-/blob/main/RedLightGreenLight.md)
     - Players race to other side of the map or an item on the map without getting caught moving red mode
 7. The Floor is Lava
     - Floor constantly changes between lava and normal 
