@@ -25,6 +25,12 @@
 - Combustion Nade
 - Net gun
 
+### Premium Items:
+- Super Bat
+- Black hole grenade
+- Negation Shield
+- Freeze Ray
+
 ### Maps:
 - 6 maps will be made by the time the game comes out.
 - 2 of these maps will have players placed in the middle of a cornfield with crop circles.
@@ -35,6 +41,16 @@
   - Second will have a major creek and terrain going through
  - 1 of the maps will be in a Suburban setting with a major street separating 2 different residential neighborhoods of 2-3 story houses. Houses blocked off to players so they have to run through the roads and backyards of the houses instead of inside them.
  - 1 of the maps will be based on an island with a mountain near the middle and beaches surround the outside with players also able to run through knee deep water.
+
+### Modifiers: 
+- The main modifier chosen each round is the time setting between Dawn, Dusk, and Midnight
+- 6 other modifiers chosen every other round (Player can purchase another one to run 2)
+  - Major Fog
+  - Ground Invasion
+  - Cloaking Device
+  - Ice Floor
+  - Constant movement 
+  - 
 
 ### Customization: 
 - 3 different UFO models
