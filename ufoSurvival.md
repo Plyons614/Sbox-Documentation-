@@ -11,17 +11,34 @@
 ##### UFO Assault
 
 ### Description:
-##### The group of players run around an open area while a UFO searches for them in the amount of time given. When the UFO hovers over a person it starts sucking them up within the beam and once the player touches the UFO they disappear/die. There may be multiple UFO's depending on the number of players there are. Players may also hit each other, knocking the other back and baseball bats give a bigger boost to the knockback taken. The goal is for each player to try to hit the other into the UFO beam. 
+##### The group of players run around an open area while a UFO searches for them in the amount of time given. When the UFO hovers over a person it starts sucking them up within the beam and once the player touches the UFO they disappear/die. There may be multiple UFO's depending on the number of players there are. Players may also hit each other, knocking the other back and baseball bats give a bigger boost to the knockback taken. The goal is for each player to try to hit the other into the UFO beam. Up to 42 players. Every 14 players there will be 1 UFO. 
 
 ### Rules:
 ##### All consumables and modifiers will be allowed on this minigame. Players run or hide while the UFO sucks them up.
 
-### Planned Props:
+### Free Items:
 - Baseball Bat
-- UFO
-- Empty Shacks
+- Gravity Coil
+- Speed Coil
+- Grappling Hook
+- Flash Nade
+- Combustion Nade
+- Net gun
 
 ### Maps:
-- 3 maps will be made by the time the game comes out.
-- 2 of these maps will have players placed in the middle of a cornfield with crop circles. There will be empty shacks with bats in them that players can pick up as well. Players will all spawn inside the crop circle next to each other with the shacks more outward of the map.
-- 1 of the maps will take place in a woods/forest setting with no-roof shacks containing bats in them. The UFOs will start from the outside of the map where the players will be spread out.
+- 6 maps will be made by the time the game comes out.
+- 2 of these maps will have players placed in the middle of a cornfield with crop circles.
+  - First has a central shack in the middle with multiple rooms and no roof.
+  - Second has multiple dirt paths and small ponds throughout the map
+- 2 of the maps will take place in a woods/forest setting. 
+  - First will have a cracked street with multiple functional street lights and hills.
+  - Second will have a major creek and terrain going through
+ - 1 of the maps will be in a Suburban setting with a major street separating 2 different residential neighborhoods of 2-3 story houses. Houses blocked off to players so they have to run through the roads and backyards of the houses instead of inside them.
+ - 1 of the maps will be based on an island with a mountain near the middle and beaches surround the outside with players also able to run through knee deep water.
+
+### Customization: 
+- 3 different UFO models
+- Plenty of different paint jobs for those UFOs
+- Different beam colors for the UFOs
+- Hats for players on ground to collect
+- Pets that follow players as available to be collected
