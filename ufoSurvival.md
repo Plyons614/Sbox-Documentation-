@@ -24,6 +24,7 @@
 - Flash Nade
 - Combustion Nade
 - Net gun
+- knockback nade
 
 ### Premium Items:
 - Super Bat
@@ -50,7 +51,7 @@
   - Cloaking Device
   - Ice Floor
   - Constant movement 
-  - 
+  - big head
 
 ### Customization: 
 - 3 different UFO models
